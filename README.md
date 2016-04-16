@@ -1,3 +1,3 @@
 # hello-world
-this is the first changes 
-
+I'v examined some docs, and the new story is coming soon.
+Be updated!
